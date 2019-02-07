@@ -1,6 +1,6 @@
 # MIT Deep Learning
 
-![MIT Deep Learning](https://deeplearning.mit.edu/files/images/mit_deep_learning.png)
+<a href="https://deeplearning.mit.edu/"><img src="https://deeplearning.mit.edu/files/images/mit_deep_learning.png"></a>
 
 This repository is a collection of tutorials for [MIT Deep Learning](https://deeplearning.mit.edu/) courses. More added as courses progress.
 
@@ -12,6 +12,8 @@ This tutorial accompanies the [lecture on Deep Learning Basics](https://www.yout
 
 Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
 \[ [Google Colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb) \]
+\[ [Lecture Video](https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U) \]
+
 
 ## Tutorial: Driving Scene Segmentation
 
@@ -29,3 +31,14 @@ Links: \[ [Jupyter Notebook](https://github.com/lexfridman/mit-deep-learning/blo
 DeepTraffic is a deep reinforcement learning competition. The goal is to create a neural network that drives a vehicle (or multiple vehicles) as fast as possible through dense highway traffic.
 
 Links: \[ [GitHub](https://github.com/lexfridman/deeptraffic) \] \[ [Website](https://selfdrivingcars.mit.edu/deeptraffic) \] \[ [Paper](https://arxiv.org/abs/1801.02805) \]
+
+## Team
+
+- [Lex Fridman](https://lexfridman.com)
+- [Li Ding](https://www.mit.edu/~liding/)
+- [Jack Terwilliger](https://www.mit.edu/~jterwill/)
+- [Michael Glazer](https://www.mit.edu/~glazermi/)
+- [Aleksandr Patsekin](https://www.mit.edu/~patsekin/)
+- [Aishni Parab](https://www.mit.edu/~aishni/)
+- [Dina AlAdawy](https://www.mit.edu/~aladawy/)
+- [Henri Schmidt](https://www.mit.edu/~henris/)
